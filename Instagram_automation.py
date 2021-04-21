@@ -15,9 +15,10 @@ sleep(5)
 # Enter the username and password
 
 username = driver.find_element_by_name('username')
-username.send_keys('illus_by_me')
+username.send_keys('Your_USERNAME')        # Enter your username
+
 password = driver.find_element_by_name('password')
-password.send_keys('himanshi')
+password.send_keys('himanshi')             # Enter your password
 
 # Code to click on login button
 
