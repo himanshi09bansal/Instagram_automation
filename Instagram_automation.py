@@ -1,3 +1,5 @@
+# import libraries 
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
@@ -10,14 +12,20 @@ url = "https://www.instagram.com/?hl=en"
 driver.get(url)
 sleep(5)
 
+# Enter the username and password
 
 username = driver.find_element_by_name('username')
 username.send_keys('illus_by_me')
 password = driver.find_element_by_name('password')
 password.send_keys('himanshi')
+
+# Code to click on login button
+
 button_login = driver.find_element_by_css_selector('#loginForm > div > div:nth-child(3) > button > div')
 button_login.click()
 sleep(5)
+
+# try and exception cases 
 
 try:
     notsave = driver.find_element_by_css_selector('#react-root > section > main > div > div > div > div > button')
@@ -33,12 +41,22 @@ try:
 except:    
     sleep(2)
 
+# Code to type the nam of the account
+
 sleep(1)
-usernameofperson="thedivakitchen_" 
+usernameofperson="instagram" 
 driver.get('https://www.instagram.com/' + usernameofperson)
 sleep(5)
-first_thumbnail = driver.find_element_by_class_name('eLAPa')
+
+# Code to follow the account
+
+first_thumbnail = driver.find_element_by_class_name('_5f5mN')
 first_thumbnail.click()
+
+# Code to like all the posts 
+
+second_thumbnail = driver.find_element_by_class_name('eLAPa')
+second_thumbnail.click()
 sleep(3)
 next_post='1'
 null=''
@@ -57,4 +75,6 @@ while next_post is not null:
         next_post = null
     if liked%10==0:
         print(liked)
-print(str(liked)+' Posts Liked!')
+print(str(liked)+' Posts Liked!') 
+
+# the end
