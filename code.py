@@ -4,7 +4,8 @@ from time import sleep
 import random
 from selenium.common.exceptions import NoSuchElementException
 
-driver = webdriver.Chrome("chromedriver.exe")
+#driver = webdriver.Chrome("chromedriver.exe")
+driver = webdriver.Chrome('/Users/himanshigupta/Desktop/Python/Detection/chromedriver') 
 url = "https://www.instagram.com/?hl=en"
 driver.get(url)
 sleep(5)
@@ -57,4 +58,3 @@ while next_post is not null:
     if liked%10==0:
         print(liked)
 print(str(liked)+' Posts Liked!')
-
