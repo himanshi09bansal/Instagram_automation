@@ -1,6 +1,6 @@
 # Instagram_automation
 
-https://d26pm0riky5t4b.cloudfront.net/post/top_image/e901e0ff-7a84-4bee-892f-8c09244d438d.svg
+![68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067](https://user-images.githubusercontent.com/67017362/115667434-767e2380-a363-11eb-86e3-746768f9aa22.jpeg)
 
 ## INTRODUCTION
 An Instagram bot developed using the Selenium Framework that auto-likes the posts and follows anu user account.
@@ -18,8 +18,24 @@ An Instagram bot developed using the Selenium Framework that auto-likes the post
 
 <img width="559" alt="Screenshot 2021-04-22 at 11 52 09 AM" src="https://user-images.githubusercontent.com/67017362/115665899-839a1300-a361-11eb-8d4e-f1f0d48161c0.png">
 
-from selenium import webdriver <br/>
-from selenium.webdriver.common.keys import Keys <br/>
-from time import sleep <br/>
-import random <br/>
-from selenium.common.exceptions import NoSuchElementException <br/>
+## ENTER USERNAME AND PASSWORD
+
+<img width="603" alt="Screenshot 2021-04-22 at 11 59 05 AM" src="https://user-images.githubusercontent.com/67017362/115666935-d32d0e80-a362-11eb-9c18-aaffee5eac5f.png">
+
+## CLICK THE LOGIN BUTTON
+
+<img width="958" alt="Screenshot 2021-04-22 at 12 00 18 PM" src="https://user-images.githubusercontent.com/67017362/115667032-f3f56400-a362-11eb-8d70-1e81e91ec1f3.png">
+
+## CODE TO FOLLOW THE USER
+
+<img width="471" alt="Screenshot 2021-04-22 at 12 01 15 PM" src="https://user-images.githubusercontent.com/67017362/115667168-269f5c80-a363-11eb-9b41-fe29bf3f88a2.png">
+
+## LIKE ALL THE POSTS
+
+<img width="533" alt="Screenshot 2021-04-22 at 12 02 09 PM" src="https://user-images.githubusercontent.com/67017362/115667261-420a6780-a363-11eb-8f40-e13bd1930b60.png">
+
+## END OF THE PROGRAM
+In the end, the code will print "![68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067](https://user-images.githubusercontent.com/67017362/115667397-6bc38e80-a363-11eb-8709-4d838737bedb.jpeg)
+liked all the posts!"
+
+
