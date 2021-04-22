@@ -1,7 +1,9 @@
 # Instagram_automation
 
+## INTRODUCTION
 An Instagram bot developed using the Selenium Framework that auto-likes the posts and follows anu user account.
 
+## FEATURES
 🔵 Automatic launching of Instagram Application <br/>
 🔵 Auto-login to the account <br/>
 🔵 Search a user account <br/>
@@ -9,3 +11,4 @@ An Instagram bot developed using the Selenium Framework that auto-likes the post
 🔵 Like or unlike all posts of a single user <br/>
 🔵 Like or unlike a single post <br/>
 🔵 Print liked all posts in the end <br/>
+
