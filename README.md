@@ -35,7 +35,6 @@ An Instagram bot developed using the Selenium Framework that auto-likes the post
 <img width="533" alt="Screenshot 2021-04-22 at 12 02 09 PM" src="https://user-images.githubusercontent.com/67017362/115667261-420a6780-a363-11eb-8f40-e13bd1930b60.png">
 
 ## END OF THE PROGRAM
-In the end, the code will print "![68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067](https://user-images.githubusercontent.com/67017362/115667397-6bc38e80-a363-11eb-8709-4d838737bedb.jpeg)
-liked all the posts!"
+In the end, the code will print " liked all the posts! "
 
 
