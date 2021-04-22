@@ -16,7 +16,7 @@ An Instagram bot developed using the Selenium Framework that auto-likes the post
 
 ## IMPORTS
 
-<div class="text-gray mb-2">
+<div class="bg-gray">
 from selenium import webdriver <br/>
 from selenium.webdriver.common.keys import Keys <br/>
 from time import sleep <br/>
