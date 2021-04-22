@@ -1,0 +1,7 @@
+Here is the list of tools I used.
+
+	- Python 3.8
+	- Selenium 
+	- Chrome Driver
+	- Instagram Account
+	- VS Code or any other equivalent Python IDE
