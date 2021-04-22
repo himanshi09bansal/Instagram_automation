@@ -1,5 +1,7 @@
 # Instagram_automation
 
+![Uploading 68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067.jpeg…]()
+
 ## INTRODUCTION
 An Instagram bot developed using the Selenium Framework that auto-likes the posts and follows anu user account.
 
