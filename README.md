@@ -3,7 +3,7 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f734a7a665a734c2e6a7067](https://user-images.githubusercontent.com/67017362/115667434-767e2380-a363-11eb-86e3-746768f9aa22.jpeg)
 
 ## INTRODUCTION
-An Instagram bot developed using the Selenium Framework that auto-likes the posts and follows anu user account.
+An Instagram bot developed using the Selenium Framework that auto-likes the posts and follows any user account.
 
 ## 🚀 FEATURES
 🔵 Automatic launching of Instagram Application <br/>
