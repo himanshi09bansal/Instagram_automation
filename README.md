@@ -37,4 +37,11 @@ An Instagram bot developed using the Selenium Framework that auto-likes the post
 ## 🎨 END OF THE PROGRAM
 In the end, the code will print " liked all the posts! "
 
+## 🐛 Bug Reporting
+
+Feel free to [open an issue](https://github.com/issues) on GitHub if you find any bug.
+
+## ⭐ Feature Request
+
+Feel free to [Create an issue](https://github.com/issues) on GitHub to request any additional features you might need for your use case.
 
