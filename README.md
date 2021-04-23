@@ -39,7 +39,7 @@ In the end, the code will print " liked all the posts! "
 
 ## 🐛 Bug Reporting
 
-Feel free to [open an issue](https://github.com/issues) on GitHub if you find any bug.
+Feel free to open an issue on GitHub if you find any bug.
 
 ## ⭐ Feature Request
 
