@@ -26,6 +26,10 @@ An Instagram bot developed using the Selenium Framework that auto-likes the post
 
 <img width="958" alt="Screenshot 2021-04-22 at 12 00 18 PM" src="https://user-images.githubusercontent.com/67017362/115667032-f3f56400-a362-11eb-8d70-1e81e91ec1f3.png">
 
+## 🔍 SEARCH THE USER ACCOUNT
+<img width="527" alt="Screenshot 2021-04-24 at 12 52 29 AM" src="https://user-images.githubusercontent.com/67017362/115920173-70895f00-a497-11eb-954a-00687ac8a606.png">
+
+
 ## 🔧 CODE TO FOLLOW THE USER
 
 <img width="471" alt="Screenshot 2021-04-22 at 12 01 15 PM" src="https://user-images.githubusercontent.com/67017362/115667168-269f5c80-a363-11eb-9b41-fe29bf3f88a2.png">
